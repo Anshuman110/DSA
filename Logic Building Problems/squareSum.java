@@ -1,4 +1,4 @@
-//finding sum of sqaures of first n natural nnumbers.
+//finding sum of sqaures of first n natural numbers.
 import java.util.*;
 public class squareSum{
 
